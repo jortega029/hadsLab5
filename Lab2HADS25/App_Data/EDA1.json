@@ -1,0 +1,51 @@
+﻿[
+  {
+    "codigo": "EDA07-Ej1",
+    "Descripcion": "Ejercicio sobre listas ligadas",
+    "HEstimadas": 2,
+    "Explotacion": true,
+    "TipoTarea": "Ejercicio"
+  },
+  {
+    "codigo": "EDA13",
+    "Descripcion": "examen",
+    "HEstimadas": 12,
+    "Explotacion": true,
+    "TipoTarea": "Examen"
+  },
+  {
+    "codigo": "EDA8000",
+    "Descripcion": "nosnosqcoqoqboi",
+    "HEstimadas": 3,
+    "Explotacion": true,
+    "TipoTarea": "Examen"
+  },
+  {
+    "codigo": "EDA897",
+    "Descripcion": "hvvgjgvggvu",
+    "HEstimadas": 4,
+    "Explotacion": true,
+    "TipoTarea": "Ejercicio"
+  },
+  {
+    "codigo": "EDAAA",
+    "Descripcion": "dfdfsdfdsfsdfs",
+    "HEstimadas": 5,
+    "Explotacion": true,
+    "TipoTarea": "Laboratorio"
+  },
+  {
+    "codigo": "EX-123",
+    "Descripcion": "examen",
+    "HEstimadas": 4,
+    "Explotacion": false,
+    "TipoTarea": "Ejercicio"
+  },
+  {
+    "codigo": "HAS08-Lab10",
+    "Descripcion": "Hola",
+    "HEstimadas": 10,
+    "Explotacion": false,
+    "TipoTarea": "Laboratorio"
+  }
+]

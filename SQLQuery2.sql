@@ -1,0 +1,1 @@
+﻿insert into TareasGenericas values ('EDA2453','sdsds','EDA1',4,1,'Examen')

@@ -1,0 +1,37 @@
+﻿[
+  {
+    "codigo": "Prueba18",
+    "Descripcion": "prueba",
+    "HEstimadas": 12,
+    "Explotacion": true,
+    "TipoTarea": "Ejercicio"
+  },
+  {
+    "codigo": "SEG08-Test12",
+    "Descripcion": "Test 12 de la asignatura",
+    "HEstimadas": 3,
+    "Explotacion": false,
+    "TipoTarea": "Examen"
+  },
+  {
+    "codigo": "SEG08-Trabajo20",
+    "Descripcion": "Tareas del trabajo 20 de la asignatura",
+    "HEstimadas": 10,
+    "Explotacion": false,
+    "TipoTarea": "Trabajo"
+  },
+  {
+    "codigo": "SEG18-Lab1",
+    "Descripcion": "Tareas del trabajo 20 de la asignatura",
+    "HEstimadas": 10,
+    "Explotacion": false,
+    "TipoTarea": "Trabajo"
+  },
+  {
+    "codigo": "SEG18-Test1",
+    "Descripcion": "Test 12 de la asignatura",
+    "HEstimadas": 3,
+    "Explotacion": false,
+    "TipoTarea": "Examen"
+  }
+]

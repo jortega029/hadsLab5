@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<tareas xmlns:has="http://ji.ehu.es/has">
+  <tarea codigo="EDA07-Ej1">
+    <descripcion>Ejercicio sobre listas ligadas</descripcion>
+    <hestimadas>2</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea codigo="EDA13">
+    <descripcion>examen</descripcion>
+    <hestimadas>12</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea codigo="EDA8000">
+    <descripcion>nosnosqcoqoqboi</descripcion>
+    <hestimadas>3</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Examen</tipotarea>
+  </tarea>
+  <tarea codigo="EDA897">
+    <descripcion>hvvgjgvggvu</descripcion>
+    <hestimadas>4</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea codigo="EDAAA">
+    <descripcion>dfdfsdfdsfsdfs</descripcion>
+    <hestimadas>5</hestimadas>
+    <explotacion>true</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+  <tarea codigo="EX-123">
+    <descripcion>examen</descripcion>
+    <hestimadas>4</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Ejercicio</tipotarea>
+  </tarea>
+  <tarea codigo="HAS08-Lab10">
+    <descripcion>Hola</descripcion>
+    <hestimadas>10</hestimadas>
+    <explotacion>false</explotacion>
+    <tipotarea>Laboratorio</tipotarea>
+  </tarea>
+</tareas>

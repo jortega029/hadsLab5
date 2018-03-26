@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="HADS25-TAREASConnectionString-Web.config Connection String" description="HADS25-TAREASConnectionString Cadena de conexión que usa la aplicación en web.config para obtener acceso a la base de datos." defaultValue="Data Source=tcp:hads25.database.windows.net,1433;Initial Catalog=HADS25-TAREAS;User ID=amaiajokin;Password=Nistus8000" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="C:\\Users\\jortega029\\Desktop\\Lab2HADS25\\Lab2HADS25\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='HADS25-TAREASConnectionString']/@connectionString" />
+  </parameter>
+</parameters>
